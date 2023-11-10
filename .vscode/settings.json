@@ -1,0 +1,21 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.adapterTargetName": "esp32c3",
+  "idf.openOcdConfigs": [
+    "board/esp32c3-bridge.cfg"
+  ],
+  "idf.flashType": "UART",
+  "idf.port": "/dev/ttyUSB0",
+  "files.associations": {
+    "nvs_flash.h": "c",
+    "esp_bt.h": "c",
+    "esp_system.h": "c",
+    "esp_task.h": "c",
+    "freertos.h": "c",
+    "freertosconfig.h": "c",
+    "freertosconfig_arch.h": "c",
+    "xtensa_config.h": "c",
+    "system.h": "c",
+    "core.h": "c"
+  }
+}
